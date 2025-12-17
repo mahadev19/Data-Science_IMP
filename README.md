@@ -64,11 +64,7 @@ These help in identifying trends, outliers, and relationships between variables.
 
 ---
 
-## ▶️ How to Run the Project
 
-1. Clone the repository  
-   ```bash
-   
 ## Contact
 
 Mahadev Bharat Pandharpote
