@@ -69,4 +69,13 @@ These help in identifying trends, outliers, and relationships between variables.
 1. Clone the repository  
    ```bash
    
+## Contact
+
+Mahadev Bharat Pandharpote
+
+Contact : gmail:- pandmahadev120@gmail.com
+
+linkedin :- https://www.linkedin.com/in/mahadev-data-scientist/
+
+twitter : - https://x.com/Mahadev_Py
 
