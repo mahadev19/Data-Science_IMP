@@ -12,7 +12,7 @@ The notebook (`DS_IMP.ipynb`) walks through the complete analytical process in a
 
 ---
 
-## 🧠 Key Concepts Covered
+## 🧠 Key Concepts Covered -
 
 - Data Cleaning & Preprocessing  
 - Handling Missing Values  
